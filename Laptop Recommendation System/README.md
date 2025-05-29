@@ -44,6 +44,3 @@ A best option is selected by solving:
 
 ```math
 Maximize: Σ (CPU_weight × CPU_score + GPU_weight × GPU_score)
-
-Subject to: Only one laptop can be selected
-
