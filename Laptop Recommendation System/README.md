@@ -28,7 +28,7 @@ A powerful Excel-VBA system for assisting users in selecting the most suitable l
 
 ## 📂 File Structure
 
-- `Laptop_Recommendation_System.xlsm` — Main Excel file with all VBA modules and forms.
+- `Group_11_A2_RecomSystem.xlsm` — Main Excel file with all VBA modules and forms.
 - **Sheets Included**:
   - `CoverPage` – Main UI and instructions
   - `Inventory` – Laptop database
@@ -44,5 +44,6 @@ A best option is selected by solving:
 
 ```math
 Maximize: Σ (CPU_weight × CPU_score + GPU_weight × GPU_score)
+
 Subject to: Only one laptop can be selected
 
