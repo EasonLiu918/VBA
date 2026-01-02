@@ -1,9 +1,9 @@
-# 🧠 Laptop Recommendation System & Hong Kong Stock Data Analysis
+# Laptop Recommendation System & Hong Kong Stock Data Analysis
 This repository contains two fully-featured Excel VBA applications that demonstrate practical business automation and analysis capabilities using Visual Basic for Applications (VBA).
 
 ---
 
-## 📁 Projects at a Glance
+## Projects at a Glance
 
 | Folder | Description | Key Features |
 |--------|-------------|--------------|
