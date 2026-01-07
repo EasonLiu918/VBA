@@ -1,24 +1,24 @@
-# 📊 Hong Kong Stock Data Analysis
+# Hong Kong Stock Data Analysis
 
 This project is a VBA-powered Excel tool for analyzing Hong Kong stock data.  
 It calculates key **SMA values** (5, 10, 20, 50, 100, 200) and detects **Golden Cross** events.
 
 ---
 
-### ✨ Features
+### Features
 
-- 📌 Automatically calculates SMA (Simple Moving Average) for each stock
-- 🔍 Detects **Golden Cross** events using SMA-50 and SMA-200
-- ✅ Dynamic user interaction with buttons:
+- Automatically calculates SMA (Simple Moving Average) for each stock
+- Detects **Golden Cross** events using SMA-50 and SMA-200
+- Dynamic user interaction with buttons:
   - **Choose a Company**
   - **Golden Cross**
   - **Update All SMA & Golden Cross**
   - **Back to Cover Page**
-- 🧾 Well-organized UI with a cover page and main display sheet
+- Well-organized UI with a cover page and main display sheet
 
 ---
 
-### 📁 File Structure
+### File Structure
 
 - `HK_stockdata.xlsm`: Main Excel file with all VBA modules included
 - Includes:
@@ -27,7 +27,7 @@ It calculates key **SMA values** (5, 10, 20, 50, 100, 200) and detects **Golden 
 
 ---
 
-### 🧠 Golden Cross Logic
+### Golden Cross Logic
 A **Golden Cross** is detected when:
 
 > **SMA-50 crosses above SMA-200** from below  
@@ -35,7 +35,7 @@ A **Golden Cross** is detected when:
 
 ---
 
-### 🔧 How to Use
+### How to Use
 
 1. Open `HK_stockdata.xlsm` in Excel
 2. Enable Macros when prompted
